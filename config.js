@@ -47,7 +47,7 @@ global.psaweria = 'gaada'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285860172268'
-global.nomorown = '6285798048939'
+global.nomorown = '6285798048936'
 global.namebot = 'FR-MODS-BOT'
 global.nameown = 'FR MODS DEV'
 
