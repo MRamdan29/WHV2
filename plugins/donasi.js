@@ -11,10 +11,11 @@ let text = `
 │ • *Link Aja:* [${global.plinkaja}]
 ❏────
 `.trim()
-  m.reply(txt)
+  m.reply(text)
 }
 handler.help = ['donasi']
 handler.tags = ['info']
 handler.command = /^dona(te|si)$/i
 
 export default handler
+
